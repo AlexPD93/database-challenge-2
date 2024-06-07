@@ -12,8 +12,8 @@
     "test:6": "DB_FILE=test.sqlite node -r ./src/database/seed.js test/six.test.js"
   },
   "dependencies": {
-    "better-sqlite3": "^7.5.3",
-    "express": "^4.18.1"
+    "better-sqlite3": "^11.0.0",
+    "express": "^4.19.2"
   },
   "devDependencies": {
     "eslint": "^8.23.1",
